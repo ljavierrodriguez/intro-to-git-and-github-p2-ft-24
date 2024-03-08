@@ -2,9 +2,19 @@
   width: 200px;
   height: 120px;
   background-color: #138bbe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .box .content {
   width: 180px;
-  height: 80px;
+  height: 100px;
   background-color: #1dace9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box .content span {
+  background-color: white;
+  padding: 5px;
 }

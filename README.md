@@ -25,3 +25,9 @@ git checkout -b <branch_name>
 ```shell   
 git checkout <branch_name>
 ```
+
+# Unir ramas (branch)
+
+```shell   
+git merge <from_branch> <to_branch>
+```
